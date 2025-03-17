@@ -12,17 +12,18 @@ A full-stack auction website built from scratch. React is used for the frontend 
 - Three tables  - Auctions, Bids, Users
 - Stored Procedures for all actions
 ### .NET API 
-- Dapper is used as micro-ORM
+- Dapper as micro-ORM
 - Repository-esque pattern
-- Unit testing included
+- Unit Testing
 - CORS & Swagger
 ### React Website
 - Based on React Router and Context API
 - Standalone CSS
 - Clean Separation of Concerns
 
-## Stuff to Implement
-- Implement rate-limits and email verification on signup for scalability
-- When JWT tokens expire, redirect and inform user properly
+## Stuff to Implement/Fix
+
+- email verification on signup and rate-limits for scalability
+- when JWT tokens expire, redirect and inform user properly
 - Link with legitimate payment methods for tracking user balances
-- Make the API 
+- Make the API conform to standards (service layer & JSON as body on all HTTP reqs)
