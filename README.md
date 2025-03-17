@@ -14,7 +14,7 @@ A full-stack auction website built from scratch. React is used for the frontend 
 ### .NET API 
 - Dapper as micro-ORM
 - Repository-esque pattern
-- Unit testing
+- Unit Testing
 - CORS & Swagger
 ### React Website
 - Based on React Router and Context API

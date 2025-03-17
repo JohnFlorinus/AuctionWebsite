@@ -26,8 +26,6 @@ const BidProvider = (props) => {
 
     const placeBid = async (id, bidamount) => {
         try {
-          console.log("id: " + id);
-          console.log("bid amount: " + bidamount);
           if (!id || !bidamount) {
               setSuccessMessage("");
               setErrorMessage('Du måste först fylla i ett bud');
@@ -57,6 +55,8 @@ const BidProvider = (props) => {
       value={{
         errorMessage,
         successMessage,
+        setErrorMessage,
+        setSuccessMessage,
         placeBid,
         getAllBids,
       }}

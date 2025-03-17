@@ -44,7 +44,7 @@ namespace Auction.Repository.Services
                 notBefore: DateTime.UtcNow,
                 audience: _audience,
                 issuer: _issuer,
-                expires: DateTime.UtcNow.AddHours(1),
+                expires: DateTime.UtcNow.AddHours(24),
                 signingCredentials: new SigningCredentials(
                     new SymmetricSecurityKey(
                        Encoding.UTF8.GetBytes(_key)
