@@ -2,7 +2,7 @@ import './AuctionItem.css';
 import { useRef,useState } from 'react';
 import { useNavigate } from 'react-router-dom'
 
-    const AuctionItem = ({auction, placeBid, bidsHistory, loggedIn, userID, errorMessage, successMessage, updateAuction, deleteAuction, searchAuctions}) => {
+    const AuctionItem = ({auction, placeBid, bidsHistory, loggedIn, userID, errorMessage, successMessage, setErrorMessage, setSuccessMessage, updateAuction, deleteAuction, searchAuctions}) => {
       const BidAmountRef = useRef();
       const descriptionRef = useRef();
       const navigate = useNavigate();
@@ -28,6 +28,9 @@ import { useNavigate } from 'react-router-dom'
           navigate("/");
         }
       };
+
+      console.log("userid: " + userID);
+      console.log("auction created by: " + auction.createdBy);
 
       return (
         <div className="auction-item-container">
@@ -85,7 +88,7 @@ import { useNavigate } from 'react-router-dom'
           </div>
         )}
 
-              <button className="item-button" onClick={() =>{navigate("/")}}>Gå tillbaka</button>
+              <button className="item-button" onClick={() =>{navigate("/");setErrorMessage('');setSuccessMessage('');}}>Gå tillbaka</button>
           </div>
         </div>
       );

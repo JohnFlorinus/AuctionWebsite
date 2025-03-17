@@ -35,7 +35,7 @@ const AuthProvider = (props) => {
         if (loginResult) {
           setSuccessMessage('Du är nu inloggad, omdirigeras...');
           setLoggedIn(true);
-          setUserID(parseJwt(loginResult).UserID)
+          setUserID(parseJwt(getJwt()).UserID);
           setTimeout(() => {
             navigate('/');
             setSuccessMessage('');
@@ -58,10 +58,10 @@ const AuthProvider = (props) => {
         const registerResult = await UserRegister(user, pass);
         if (registerResult) {
             // sätt JWT & UserID via userlogin
-            const loginResult = await UserLogin(user,pass);
+            await UserLogin(user,pass);
             setSuccessMessage('Du är nu registrerad, omdirigeras...');
             setLoggedIn(true);
-            setUserID(parseJwt(loginResult).UserID)
+            setUserID(parseJwt(getJwt()).UserID);
             setTimeout(() => {
               navigate('/');
               setSuccessMessage('');

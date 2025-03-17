@@ -7,7 +7,7 @@ import { useParams } from 'react-router-dom';
 
 const AuctionItemPage = () => {
   const { getAuctionById, updateAuction, deleteAuction, searchAuctions } = useContext(AuctionContext);
-  const { getAllBids, placeBid, errorMessage, successMessage } = useContext(BidContext);
+  const { getAllBids, placeBid, errorMessage, successMessage, setErrorMessage, setSuccessMessage } = useContext(BidContext);
   const { loggedIn, userID } = useContext(AuthContext);
   const { auctionID } = useParams();
   const [selectedAuction, setSelectedAuction] = useState(null);
@@ -37,6 +37,8 @@ const AuctionItemPage = () => {
       userID={userID}
       errorMessage={errorMessage}
       successMessage={successMessage}
+      setErrorMessage={setErrorMessage}
+      setSuccessMessage={setSuccessMessage}
       updateAuction={updateAuction}
       deleteAuction={deleteAuction}
       searchAuctions={searchAuctions}/>
