@@ -3,7 +3,7 @@
 
 A full-stack auction website built from scratch. React is used for the frontend and communicates with a .NET API integrated with a relational MSSQL database.
 
-## Short Technical Details
+## Technical Details
 
 ### Security
 - JWT is used for user authentication
