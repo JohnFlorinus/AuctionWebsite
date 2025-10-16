@@ -46,15 +46,18 @@
 
 <hr>
 
-<h2>🧨 Why This Project is “Bad”</h2>
+<h2>🧨 Why This Project Is “Bad”</h2>
 
-<p>Things I was too lazy to fix/remake. I still showcase this repository on my profile because it showcases knowledge of many different technologies.</p>
+<p>
+This project has plenty of bad implementations I couldn't be bothered to fix or remake.
+Still, I keep it on my GitHub profile because it demonstrates hands-on experience with a wide range of technologies.
+</p>
 
 <ul>
-  <li>❌ <strong>No Entity Framework</strong> – Instead, it uses <strong>Dapper + stored procedures</strong>, making development generally slower.</li>
-  <li>❌ <strong>Hardcoded secrets</strong> – Either use .gitignored configuration files or something like Azure Key Vault if cloud native.</li>
-  <li>❌ <strong>No CI/CD pipeline</strong> – No build automation or cloud deployment yet.</li>
-  <li>❌ <strong>frontend calls API with HTTP</strong> - Unencrypted and unsafe for production.</li>
+  <li>❌ <strong>No Entity Framework</strong> – Uses <strong>Dapper + stored procedures</strong> instead, which makes development generally more tedious.</li>
+  <li>❌ <strong>Hardcoded secrets</strong> – Should really be stored in a <code>.gitignored</code> configuration file or managed through a secure service like <strong>Azure Key Vault</strong>.</li>
+  <li>❌ <strong>No CI/CD pipeline</strong> – Lacks automated builds, testing, and cloud deployment integration.</li>
+  <li>❌ <strong>Frontend calls the API over HTTP</strong> – Unencrypted and unsafe for production environments.</li>
 </ul>
 
 <hr>
