@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\repository\\entities\\auctionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\repository\\entities\\auctionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\repository\\entities\\bidsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\repository\\entities\\bidsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\repository\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\repository\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\repository\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\repository\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\repository\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\repository\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|c:\\users\\mohammed\\desktop\\repos\\fullstackcontainerorchestration\\api\\auction\\repository\\repos\\auctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2AD2A1-D931-4CB0-96A9-CA86600536FD}|Auction\\Auction.csproj|solutionrelative:auction\\repository\\repos\\auctionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Auction\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Auction\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T14:40:23.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\appsettings.json",
+              "RelativeDocumentMoniker": "Auction\\appsettings.json",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\appsettings.json",
+              "RelativeToolTip": "Auction\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T14:40:10.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BidsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Entities\\BidsEntity.cs",
+              "RelativeDocumentMoniker": "Auction\\Repository\\Entities\\BidsEntity.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Entities\\BidsEntity.cs",
+              "RelativeToolTip": "Auction\\Repository\\Entities\\BidsEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:33:08.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Program.cs",
+              "RelativeDocumentMoniker": "Auction\\Program.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Program.cs",
+              "RelativeToolTip": "Auction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:05:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Auction\\Repository\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Auction\\Repository\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:55:07.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Auction\\Repository\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Services\\UserService.cs",
+              "RelativeToolTip": "Auction\\Repository\\Services\\UserService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:50:57.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Auction\\Repository\\Repos\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "Auction\\Repository\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:40:27.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Auction\\Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Auction\\Repository\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:40:24.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuctionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Entities\\AuctionEntity.cs",
+              "RelativeDocumentMoniker": "Auction\\Repository\\Entities\\AuctionEntity.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Entities\\AuctionEntity.cs",
+              "RelativeToolTip": "Auction\\Repository\\Entities\\AuctionEntity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:07:23.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "Auction\\Controllers\\AuctionController.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "Auction\\Controllers\\AuctionController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAADwv0AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:35:58.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuctionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Repos\\AuctionRepo.cs",
+              "RelativeDocumentMoniker": "Auction\\Repository\\Repos\\AuctionRepo.cs",
+              "ToolTip": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Repository\\Repos\\AuctionRepo.cs",
+              "RelativeToolTip": "Auction\\Repository\\Repos\\AuctionRepo.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwDkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:55:51.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

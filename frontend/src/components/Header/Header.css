@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .site-header {
+    background-color: #333;      
+    color: #fff;
+    width: 100%;
+    padding: 20px 10px;
+  }
+  
+  .site-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    color: yellow;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .navbar ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 20px;
+  }
+  
+  .navbar ul li {
+    flex: 1;
+  }
+  
+  .navbar ul li a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 10px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    border-radius: 4px;
+  }
+  
+  .navbar ul li a:hover {
+    background-color: #555;
+  }

@@ -1,0 +1,46 @@
+services:
+  db:
+    build: ./database
+    container_name: mssql-db
+    environment:
+      SA_PASSWORD: "JensenAzure100"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+    restart: unless-stopped
+    networks:
+      - studentnet
+
+  api:
+    build: ./api
+    container_name: auction-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      ConnectionStrings__DefaultConnection: "Server=db;Database=AuctionDB;User Id=SA;Password=JensenAzure100;TrustServerCertificate=True;"
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+    restart: unless-stopped
+    networks:
+      - studentnet
+
+  client:
+    build: ./frontend
+    container_name: react-client
+    ports:
+      - "80:80"
+    depends_on:
+      - api
+    restart: unless-stopped
+    networks:
+      - studentnet
+
+volumes:
+  sql_data:
+
+networks:
+  studentnet:
+    driver: bridge
