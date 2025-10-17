@@ -49,7 +49,7 @@
 <h2>🧨 Why This Project Is “Bad”</h2>
 
 <p>
-This project has plenty of bad implementations I couldn't be bothered to fix or remake.
+This project is a mix of my previous assignments at Jensen Yrkeshögskola and has multiple bad implementations which I couldn't be bothered to fix.
 Still, I keep it on my GitHub profile because it demonstrates hands-on experience with a wide range of technologies.
 </p>
 
