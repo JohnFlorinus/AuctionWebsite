@@ -1836,11 +1836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Auction.csproj",
+      "projectUniqueName": "C:\\Users\\mohammed\\Desktop\\FullstackContainerOrchestration\\api\\Auction\\Auction.csproj",
       "projectName": "Auction",
-      "projectPath": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\Auction.csproj",
+      "projectPath": "C:\\Users\\mohammed\\Desktop\\FullstackContainerOrchestration\\api\\Auction\\Auction.csproj",
       "packagesPath": "C:\\Users\\mohammed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mohammed\\Desktop\\repos\\FullstackContainerOrchestration\\api\\Auction\\obj\\",
+      "outputPath": "C:\\Users\\mohammed\\Desktop\\FullstackContainerOrchestration\\api\\Auction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
