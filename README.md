@@ -46,18 +46,19 @@
 
 <hr>
 
-<h2>🧨 Why This Project Is “Bad”</h2>
+<h2>🧨 Why This Project Is Bad</h2>
 
 <p>
-This project is a mix of my previous assignments at Jensen Yrkeshögskola and has multiple bad implementations which I couldn't be bothered to fix.
+This project is a mix of my previous assignments at Jensen Yrkeshögskola and has multiple bad implementations.
 Still, I keep it on my GitHub profile because it demonstrates hands-on experience with a wide range of technologies.
 </p>
 
 <ul>
-  <li>❌ <strong>No Entity Framework</strong> – Uses <strong>Dapper + stored procedures</strong> instead, which makes development generally more tedious.</li>
+  <li>❌ <strong>No Entity Framework</strong> – Uses <strong>Dapper + stored procedures</strong> instead, which makes development more tedious.</li>
   <li>❌ <strong>Hardcoded secrets</strong> – Should really be stored in a <code>.gitignored</code> configuration file or managed through a secure service like <strong>Azure Key Vault</strong>.</li>
-  <li>❌ <strong>No CI/CD pipeline</strong> – Lacks automated builds, testing, and cloud deployment integration.</li>
+  <li>❌ <strong>No CI/CD pipeline included</strong> – For easy future development and deployments.</li>
   <li>❌ <strong>Frontend calls the API over HTTP</strong> – Unencrypted and unsafe for production environments.</li>
+  <li>❌ <strong>Few unit tests</strong> – The unit tests would do little to prevent mishap deployments as of now.</li>
 </ul>
 
 <hr>
