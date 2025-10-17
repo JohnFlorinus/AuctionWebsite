@@ -50,6 +50,7 @@
 
 <p>
 This project is a mix of my previous assignments at Jensen Yrkeshögskola and has multiple bad implementations.
+Most can be fixed very easily but I am more interested in other projects, plus migrating ORM and stored procedures is a pain in the ass.
 Still, I keep it on my GitHub profile because it demonstrates hands-on experience with a wide range of technologies.
 </p>
 
