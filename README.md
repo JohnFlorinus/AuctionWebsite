@@ -2,8 +2,9 @@
 
 <p>The website allows users to:</p>
 <ul>
-  <li>Create accounts & sign-in</li>
+  <li>sign-up & sign-in</li>
   <li>View a list of auctions</li>
+  <li>Create an auction item</li>
   <li>Place bids</li>
   <li>See bid histories and item details</li>
 </ul>
@@ -46,18 +47,17 @@
 
 <hr>
 
-<h2>🧨 Why This Project Is Bad</h2>
+<h2>🧨 Bad Implementations</h2>
 
 <p>
 This project is a mix of my previous assignments at Jensen Yrkeshögskola and has multiple bad implementations.
-Most issues can be fixed very easily but I would rather spend my time on my other projects and migrating the ORM/Stored Procedures is a pain in the ass.
-Still, I keep it on my GitHub profile because it demonstrates hands-on experience with a wide range of technologies.
+Still, I keep it on my GitHub because it demonstrates hands-on experience with a wide range of technologies.
 </p>
 
 <ul>
   <li>❌ <strong>No Entity Framework</strong> – Uses <strong>Dapper + stored procedures</strong> instead, which makes development more tedious.</li>
   <li>❌ <strong>Hardcoded secrets</strong> – Should really be stored in a <code>.gitignored</code> configuration file or managed through a secure service like <strong>Azure Key Vault</strong>.</li>
-  <li>❌ <strong>No CI/CD pipeline included</strong> – For easy future development and deployments.</li>
+  <li>❌ <strong>No CI/CD pipeline included</strong> – For easy deployments.</li>
   <li>❌ <strong>Frontend calls the API over HTTP</strong> – Unencrypted and unsafe for production environments.</li>
   <li>❌ <strong>Few unit tests</strong> – The unit tests would do little to prevent mishap deployments as of now.</li>
 </ul>
