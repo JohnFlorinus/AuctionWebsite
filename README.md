@@ -50,7 +50,7 @@
 <h2>🧨 Bad Implementations</h2>
 
 <p>
-This project is a mix of my previous assignments at Jensen Yrkeshögskola and has multiple bad implementations.
+This project is a mix of my older assignments at Jensen Yrkeshögskola and has multiple bad implementations.
 Still, I keep it on my GitHub because it demonstrates hands-on experience with a wide range of technologies.
 </p>
 
